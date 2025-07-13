@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shanavaas J</h1>
-<h3 align="center">A passionate Full stack developer from Chennai , TamilNadu.</h3>
+<h3 align="center">A passionate Dot NET Full stack developer from Chennai , TamilNadu.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanavaasj&label=Profile%20views&color=0e75b6&style=flat" alt="shanavaasj" /> </p>
 
-- 🌱 I’m currently learning **MEAN stack**
+- 🌱 I’m currently Working **DOTNET WEB API and ADO.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shanavaas](https://github.com/Shanavaas)
 
-- 📫 How to reach me **shanavaas2001@gmail.com**
+- 📫 How to reach me **shanavaas4786@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shanavaas-j-0449901ab/](https://www.linkedin.com/in/shanavaas-j-0449901ab/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shanavaas-j-745803374/](https://www.linkedin.com/in/shanavaas-j-745803374/)
 
 - ⚡ Fun fact **Introvert | Nytophile**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shanavaas-j-0449901ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajendhiran" height="30" width="40" /></a>
 <a href="https://t.me/Techshana" target="blank"><img align="center" src="https://projectpeta.s3.jp-tok.cloud-object-storage.appdomain.cloud/telegram-logo-969.png" alt="shanavaasj" height="30" width="40" /></a>
-<a href="shanavaas2001@gmail.com" target="blank"><img align="center" src="https://projectpeta.s3.jp-tok.cloud-object-storage.appdomain.cloud/gmail.png" alt="shanavaasj" height="30" width="40" /></a>
+<a href="shanavaas4786@gmail.com" target="blank"><img align="center" src="https://projectpeta.s3.jp-tok.cloud-object-storage.appdomain.cloud/gmail.png" alt="shanavaasj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
